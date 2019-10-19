@@ -1,2 +1,3 @@
 hi
 3rd file
+checkinf conflicting and refussing
